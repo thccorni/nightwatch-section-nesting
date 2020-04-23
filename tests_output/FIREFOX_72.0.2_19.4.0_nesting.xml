@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="1"
+            tests="1">
+
+  <testsuite name="nesting"
+    errors="0" failures="1" hostname="" id="" package="nesting" skipped="0"
+    tests="1" time="6.652" timestamp="">
+  
+    <testcase name="Feature columns" classname="nesting" time="6.652" assertions="2">
+
+      <failure message="Expected element &lt;Section [name=featuresRight],Element [name=@firstHeading]&gt; text to equal: [0;33m&#34;Built-in Test Runner&#34;[0m - expected [0;32m&#34;equal &#39;Built-in Test Runner&#39;&#34;[0m but got: [0;31m&#34;Clean Syntax&#34;[0m[0;90m (5138ms)[0m">    at Object.Feature columns (/Users/christian/Code/github/nightwatch-section-nesting/src/tests/nesting.js:10:8)</failure>
+
+    
+    </testcase>
+  
+
+  
+
+  
+  </testsuite>
+</testsuites>
